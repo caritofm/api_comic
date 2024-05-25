@@ -1,0 +1,15 @@
+{
+  "name": "workspace2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "carolina flores",
+  "license": "ISC",
+  "description": "creando api ",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
